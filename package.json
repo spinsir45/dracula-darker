@@ -1,10 +1,10 @@
 {
-    "name": "theme-dracula",
-    "version": "2.24.3",
-    "displayName": "Dracula Official",
-    "homepage": "https://draculatheme.com/",
-    "description": "Official Dracula Theme. A dark theme for many editors, shells, and more.",
-    "publisher": "dracula-theme",
+    "name": "theme-dracula-darker",
+    "version": "1.0.0",
+    "displayName": "Dracula Darker",
+    "homepage": "https://github.com/spinsir45/dracula-darker",
+    "description": "Another Dracula Theme, but Darker.",
+    "publisher": "dracula-darker-theme",
     "license": "MIT",
     "scripts": {
         "build": "node ./scripts/build.js",
@@ -38,7 +38,7 @@
         "Themes"
     ],
     "keywords": [
-        "dracula",
+        "dracula-darker",
         "dark",
         "theme",
         "color-theme"
